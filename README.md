@@ -1,1 +1,1 @@
-# Hospital-Management-System-MYSQL-
+# Hospital-Management-System(MY-SQL)
